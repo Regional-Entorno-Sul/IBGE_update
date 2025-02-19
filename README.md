@@ -11,6 +11,6 @@ Instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/b
 
 ![x](/screen/download2.jpg)
 
-
+Instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/blob/main/IBGE_update_1.1.pdf).
 
 

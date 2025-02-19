@@ -17,4 +17,4 @@ Extrair a pasta "IBGE_update" para o disco local C ou unidade local C do PC;
 
 ![x](/screen/folder.jpg)  
 
-Instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/blob/main/IBGE_update_1.1.pdf).
+Seguir as demais instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/blob/main/IBGE_update_1.1.pdf).

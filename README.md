@@ -5,11 +5,9 @@ Atualização da tabela de população estimada pelo IBGE para uso no "DengueRep
 ## Como usar?  
 Fazer o download da última versão que está disponível na área de Downloads;
 
-![x](/screen/download.jpg)
+![x](/screen/download.jpg)  
 
-Instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/blob/main/IBGE_update_1.1.pdf).
-
-![x](/screen/download2.jpg)
+![x](/screen/download2.jpg)  
 
 Instruções de uso [aqui](https://github.com/Regional-Entorno-Sul/IBGE_update/blob/main/IBGE_update_1.1.pdf).
 
